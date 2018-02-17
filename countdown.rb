@@ -7,7 +7,6 @@ def countdown(number)
 end
 
 def countdown_with_sleep(number)
-    count = 0
     while number > 0
 
 "{x} is less than 5"
